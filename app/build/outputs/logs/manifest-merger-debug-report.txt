@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [com.google.android.material:material:1.8.0] /Users/tangshui/.gradle/caches/8.13/transforms/27f0f4cb7402a7464a2b1a1aa9d1efc3/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/tangshui/.gradle/caches/8.13/transforms/36cd189734577422d5b17d0ef7d19e56/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/tangshui/.gradle/caches/8.13/transforms/f72677862d48ac2318330df99edbebea/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef18595cbe44ee6c45b972d579d52473/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/dc178ed97da9915f2ec9aa194157fdcf/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/tangshui/.gradle/caches/8.13/transforms/e259be0ebf795c59c1e827c863857f9e/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/tangshui/.gradle/caches/8.13/transforms/8c82fc488394eaf0767e79dca75381b1/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/3b4ed2af7168b78543e7d48a9ee033bc/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/0e84bc57a3aaaaa898c1ff5272a5df0e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/715ad222e441180439ff9a6e4c159dbf/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/01b50389a9147cfae839f1997040ea54/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/06bc85c2534e5e09993bfb9fcc10b0a7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/d7c2d3f93ef9992dbdcd28cf57d3b706/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/6435cd1f957c8c36c57906a8bf336d4c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/c0e8b26c28d04a3f6a6adff21eebdb30/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/b89f5c76d64653efbd83201fdc86d4d1/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/d875f62c54a2fb136e626c74b41e8a81/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/0205f9035445fd336c4c92a7656469d9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/290b4cb78b973fa69e03b32bc91972d3/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/17cc9f50a86dd2de78f91a16011f3346/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/ccc95021a18a91484dc40f33cd3f8499/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/0fc5182aadf0219aa6916596170f4b01/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/d0c52658298328850ec6acd68d7b95e4/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tangshui/.gradle/caches/8.13/transforms/e7bf53da31b440ee179a2bb7860e052f/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/069c8e13fc57bc966afe112297e6dffc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/7042eee5b0c581eacaaccdedaa0fb7ca/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/a3b997894bb649680c102078ec50b05d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/57b1cd907483f57f210224e40e441172/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef039e64c5a6413fb40200f53cd0f37f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/1f327655217593134ba5edbc165362fc/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/fa1f5efccad4091d405c0873741e91ef/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/a2987c000d1a527753f086dcf9a9d4f5/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/430a8aa11b9841187c9c432324183a6e/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/549f668110381da67bab36b47a9005b9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/56e4f7408f9ee779d7aba96a2acbf13d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/97189618cdd8b99f206ed8dfca718725/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/3cd27f7e19c1eea1809ee71acaba3b47/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:4:5-34:19
+INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:4:5-34:19
+MERGED from [com.google.android.material:material:1.8.0] /Users/tangshui/.gradle/caches/8.13/transforms/27f0f4cb7402a7464a2b1a1aa9d1efc3/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /Users/tangshui/.gradle/caches/8.13/transforms/27f0f4cb7402a7464a2b1a1aa9d1efc3/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/tangshui/.gradle/caches/8.13/transforms/f72677862d48ac2318330df99edbebea/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/tangshui/.gradle/caches/8.13/transforms/f72677862d48ac2318330df99edbebea/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/57b1cd907483f57f210224e40e441172/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/57b1cd907483f57f210224e40e441172/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef039e64c5a6413fb40200f53cd0f37f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef039e64c5a6413fb40200f53cd0f37f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:8:9-56
+	android:icon
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.lockscreen.MainActivity
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:15:13-36
+	android:theme
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:18:27-74
+receiver#com.example.lockscreen.DeviceAdmin
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:exported
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:25:13-36
+	android:permission
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:24:13-70
+	android:name
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:23:13-40
+meta-data#android.app.device_admin
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:26:13-28:56
+	android:resource
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:28:17-53
+	android:name
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:27:17-56
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:29:13-31:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml:30:25-79
+uses-sdk
+INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.8.0] /Users/tangshui/.gradle/caches/8.13/transforms/27f0f4cb7402a7464a2b1a1aa9d1efc3/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /Users/tangshui/.gradle/caches/8.13/transforms/27f0f4cb7402a7464a2b1a1aa9d1efc3/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/tangshui/.gradle/caches/8.13/transforms/36cd189734577422d5b17d0ef7d19e56/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/tangshui/.gradle/caches/8.13/transforms/36cd189734577422d5b17d0ef7d19e56/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/tangshui/.gradle/caches/8.13/transforms/f72677862d48ac2318330df99edbebea/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/tangshui/.gradle/caches/8.13/transforms/f72677862d48ac2318330df99edbebea/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef18595cbe44ee6c45b972d579d52473/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef18595cbe44ee6c45b972d579d52473/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/dc178ed97da9915f2ec9aa194157fdcf/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/dc178ed97da9915f2ec9aa194157fdcf/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/tangshui/.gradle/caches/8.13/transforms/e259be0ebf795c59c1e827c863857f9e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/tangshui/.gradle/caches/8.13/transforms/e259be0ebf795c59c1e827c863857f9e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/tangshui/.gradle/caches/8.13/transforms/8c82fc488394eaf0767e79dca75381b1/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/tangshui/.gradle/caches/8.13/transforms/8c82fc488394eaf0767e79dca75381b1/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/3b4ed2af7168b78543e7d48a9ee033bc/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/3b4ed2af7168b78543e7d48a9ee033bc/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/0e84bc57a3aaaaa898c1ff5272a5df0e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/0e84bc57a3aaaaa898c1ff5272a5df0e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/715ad222e441180439ff9a6e4c159dbf/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/715ad222e441180439ff9a6e4c159dbf/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/01b50389a9147cfae839f1997040ea54/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/01b50389a9147cfae839f1997040ea54/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/06bc85c2534e5e09993bfb9fcc10b0a7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/06bc85c2534e5e09993bfb9fcc10b0a7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/d7c2d3f93ef9992dbdcd28cf57d3b706/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/d7c2d3f93ef9992dbdcd28cf57d3b706/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/6435cd1f957c8c36c57906a8bf336d4c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/6435cd1f957c8c36c57906a8bf336d4c/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/c0e8b26c28d04a3f6a6adff21eebdb30/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/c0e8b26c28d04a3f6a6adff21eebdb30/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/b89f5c76d64653efbd83201fdc86d4d1/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/b89f5c76d64653efbd83201fdc86d4d1/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/d875f62c54a2fb136e626c74b41e8a81/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/d875f62c54a2fb136e626c74b41e8a81/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/0205f9035445fd336c4c92a7656469d9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/0205f9035445fd336c4c92a7656469d9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/290b4cb78b973fa69e03b32bc91972d3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/290b4cb78b973fa69e03b32bc91972d3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/17cc9f50a86dd2de78f91a16011f3346/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/17cc9f50a86dd2de78f91a16011f3346/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/ccc95021a18a91484dc40f33cd3f8499/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/ccc95021a18a91484dc40f33cd3f8499/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/0fc5182aadf0219aa6916596170f4b01/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/0fc5182aadf0219aa6916596170f4b01/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/d0c52658298328850ec6acd68d7b95e4/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/d0c52658298328850ec6acd68d7b95e4/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tangshui/.gradle/caches/8.13/transforms/e7bf53da31b440ee179a2bb7860e052f/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/tangshui/.gradle/caches/8.13/transforms/e7bf53da31b440ee179a2bb7860e052f/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/069c8e13fc57bc966afe112297e6dffc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/069c8e13fc57bc966afe112297e6dffc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/7042eee5b0c581eacaaccdedaa0fb7ca/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/7042eee5b0c581eacaaccdedaa0fb7ca/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/a3b997894bb649680c102078ec50b05d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/a3b997894bb649680c102078ec50b05d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/57b1cd907483f57f210224e40e441172/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/57b1cd907483f57f210224e40e441172/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef039e64c5a6413fb40200f53cd0f37f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef039e64c5a6413fb40200f53cd0f37f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/1f327655217593134ba5edbc165362fc/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/1f327655217593134ba5edbc165362fc/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/fa1f5efccad4091d405c0873741e91ef/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/fa1f5efccad4091d405c0873741e91ef/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/a2987c000d1a527753f086dcf9a9d4f5/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/tangshui/.gradle/caches/8.13/transforms/a2987c000d1a527753f086dcf9a9d4f5/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/430a8aa11b9841187c9c432324183a6e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tangshui/.gradle/caches/8.13/transforms/430a8aa11b9841187c9c432324183a6e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/549f668110381da67bab36b47a9005b9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/549f668110381da67bab36b47a9005b9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/56e4f7408f9ee779d7aba96a2acbf13d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/56e4f7408f9ee779d7aba96a2acbf13d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/97189618cdd8b99f206ed8dfca718725/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/97189618cdd8b99f206ed8dfca718725/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/3cd27f7e19c1eea1809ee71acaba3b47/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tangshui/.gradle/caches/8.13/transforms/3cd27f7e19c1eea1809ee71acaba3b47/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tangshui/Desktop/lockscreen/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef039e64c5a6413fb40200f53cd0f37f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/tangshui/.gradle/caches/8.13/transforms/ef039e64c5a6413fb40200f53cd0f37f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/tangshui/.gradle/caches/8.13/transforms/bff744afa1c12d48a19e5404187eaefe/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.lockscreen.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.lockscreen.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/tangshui/.gradle/caches/8.13/transforms/e2ca31c05691839679581db00813697d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/tangshui/.gradle/caches/8.13/transforms/bca9c984184ab96f9094bd2fc01ca868/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
